@@ -19,5 +19,5 @@ And each appeals in each section are in German, French and Italian. Italian
 I excluded, are there are only a few thousand of decisions. Splitting them into
 the various section does not allow for enough text to analyse.
 
-The following iPython Notebooks contain 14 analyses: Each section in French and
+The following iPython Notebooks contain 14 analyses: Each court section in French and
 German.
