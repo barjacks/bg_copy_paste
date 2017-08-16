@@ -1,18 +1,19 @@
 # Copy-Paste at the Swiss Supreme Court
 
 The judges have worked on 77'000 appeals from 2007 up until
-July 2017. Many attorney claim that judges and law clerks are increasingly
-copy-pasting elements from previous verdicts. This analysis using Python
+July 2017. Attornies claim that judges and law clerks are increasingly
+copy-pasting elements from previous verdicts. This analysis uses Python
 to establish whether this is true.
 
 The 77'000 verdicts, the data bases of the analyses, can be downloaded
-[here](https://dl.dropboxusercontent.com/u/61999762/txt_files.zip). Make sure
-the data folder is in the same folder as the jupyter notebook you're working in.
+[here](https://dl.dropboxusercontent.com/u/61999762/txt_files.zip). Unzip it and
+make sure the data folder is in the same folder as the jupyter notebook you're
+working in.
 
 The Swiss Supreme court is divided into four sections of law:
 1. Sozialrechtliche Abteilungen I & II
 2. Öffentlichrechtliche Abteilungen I & II
-3. Zivilrechltiche Abteilungen I & II
+3. Zivilrechtliche Abteilungen I & II
 4. Strafrechtliche Abteilung
 
 And each appeals in each section are in German, French and Italian. Italian
