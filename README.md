@@ -1,4 +1,4 @@
-# Copy-Paste at the Swiss Supreme Courts
+# Copy-Paste at the Swiss Supreme Court
 
 The judges have worked on 77'000 appeals from 2007 up until
 July 2017. Many attorney claim that judges and law clerks are increasingly
